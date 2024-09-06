@@ -1,6 +1,8 @@
 Olá,
 
-todo o desenvolvimento das 5 questões do teste técnico estão no arquivo script.js.
+A linguagem escolhida para desenvolver o teste foi JavaScript.
+
+Todo o desenvolvimento das 5 questões do teste técnico estão no arquivo script.js.
 
 Para visualizar as respostas do código:
 - Baixe os 3 arquivos (index.html, dados.json, script.js).
